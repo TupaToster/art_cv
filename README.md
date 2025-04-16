@@ -1,7 +1,7 @@
 # Резюме: Сидорчук Максим Евгеньевич
 
 <p align="center">
-    <img src="me_lowres.png" width="75%" alt="буквально я">
+    <img src="me_lowres.png" width="400pts" alt="буквально я">
 </p>
 
 ## Контакты
