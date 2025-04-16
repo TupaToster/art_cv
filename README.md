@@ -1,13 +1,15 @@
 # Резюме: Сидорчук Максим Евгеньевич
 
 <p align="center">
-    <img src="me.jpg" width="200px" alt="буквально я">
+    <img src="me_lowres.png" width="75%" alt="буквально я">
 </p>
 
 ## Контакты
 
 tg: @tupatoster
+
 Телефон: +79152153802
+
 Почта: <tupatoster@gmail.com>
 
 ## Компетенции
