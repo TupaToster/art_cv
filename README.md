@@ -1,5 +1,9 @@
 # Резюме: Сидорчук Максим Евгеньевич
 
+<p align="center">
+    <img src="me.jpg" width="200px" alt="буквально я">
+</p>
+
 ## Контакты
 
 tg: @tupatoster
